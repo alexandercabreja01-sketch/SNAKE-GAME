@@ -1,0 +1,15 @@
+C:\Users\alexa\source\repos\JuegoSnake\JuegoSnake\obj\Debug\net10.0\JuegoSnake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\source\repos\JuegoSnake\JuegoSnake\obj\Debug\net10.0\JuegoSnake.AssemblyInfoInputs.cache
+C:\Users\alexa\source\repos\JuegoSnake\JuegoSnake\obj\Debug\net10.0\JuegoSnake.AssemblyInfo.cs
+C:\Users\alexa\source\repos\JuegoSnake\JuegoSnake\obj\Debug\net10.0\JuegoSnake.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\JuegoSnake\JuegoSnake\bin\Debug\net10.0\JuegoSnake.exe
+C:\Users\alexa\source\repos\JuegoSnake\JuegoSnake\bin\Debug\net10.0\JuegoSnake.deps.json
+C:\Users\alexa\source\repos\JuegoSnake\JuegoSnake\bin\Debug\net10.0\JuegoSnake.runtimeconfig.json
+C:\Users\alexa\source\repos\JuegoSnake\JuegoSnake\bin\Debug\net10.0\JuegoSnake.dll
+C:\Users\alexa\source\repos\JuegoSnake\JuegoSnake\bin\Debug\net10.0\JuegoSnake.pdb
+C:\Users\alexa\source\repos\JuegoSnake\JuegoSnake\obj\Debug\net10.0\JuegoSnake.dll
+C:\Users\alexa\source\repos\JuegoSnake\JuegoSnake\obj\Debug\net10.0\refint\JuegoSnake.dll
+C:\Users\alexa\source\repos\JuegoSnake\JuegoSnake\obj\Debug\net10.0\JuegoSnake.pdb
+C:\Users\alexa\source\repos\JuegoSnake\JuegoSnake\obj\Debug\net10.0\JuegoSnake.genruntimeconfig.cache
+C:\Users\alexa\source\repos\JuegoSnake\JuegoSnake\obj\Debug\net10.0\ref\JuegoSnake.dll
+C:\Users\alexa\source\repos\JuegoSnake\JuegoSnake\obj\Debug\net10.0\JuegoSnake.csproj.Up2Date
